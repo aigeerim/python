@@ -1,0 +1,8 @@
+a = (25+25)
+print(a)
+s = (a*8)
+print(s)
+d = (s**3)
+print(d)
+f = (d-63806568)
+print(f)
